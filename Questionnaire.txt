@@ -1,16 +1,20 @@
-1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+# 1.	
+How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
 
     Answer: It took me about 8-12 hours total. I took my time as soon as it was released and did some each day.
 
-2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+# 2. 
+What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
 
     Answer: I used your lectures and previous work and Chat Gpt to help me understand some things.
 
-3. Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+# 3/4. 
+Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
 
     Answer: No, I never asked any friends or instructors.
 
-4. Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+# 5. 
+Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
 
     Answer: Im not gonna say it was super difficult, but it was not easy. I really enjoyed doing this and love seeing things come together, but I think the  hardest part is that its information overload. But nothing practice can't help.
 
