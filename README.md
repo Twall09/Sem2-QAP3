@@ -1,4 +1,5 @@
-# My First react App - Dog Image Gallery
+# My First React App - Dog Image Gallery
+# Semester 2: QAP3
 
 In the project directory, you can run:
 
